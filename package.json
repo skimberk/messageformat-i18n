@@ -1,0 +1,26 @@
+{
+  "name": "messageformat-i18n",
+  "version": "0.0.1",
+  "description": "Internationalisation using messageformat.js",
+  "main": "index.js",
+  "author": "Sebastian Kimberk <skimberk1@gmail.com> (http://sebastian.io/)",
+  "homepage": "https://github.com/skimberk1/messageformat-i18n",
+  "license": "MIT",
+  "keywords": [
+    "i18n",
+    "pluralformat",
+    "icu",
+    "gettext",
+    "choiceformat",
+    "selectformat",
+    "messageformat",
+    "internationalization"
+  ],
+  "dependencies": {
+    "messageformat": "~0.2.1",
+    "callsite": "~1.0.0",
+    "wrench": "~1.5.8",
+    "js-yaml": "~3.2.3",
+    "mkdirp": "~0.5.0"
+  }
+}
