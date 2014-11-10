@@ -45,7 +45,7 @@ Console output after running `node index.js`:
 
     > node index.js
     You have 3 items.
-    Vous n'avex pas des objects.
+    Vous n'avez pas des objects.
 
 Directory structure after running `node index.js`:
 
