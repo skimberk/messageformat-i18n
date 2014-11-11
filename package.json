@@ -1,6 +1,6 @@
 {
   "name": "messageformat-i18n",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Internationalisation using messageformat.js",
   "main": "index.js",
   "author": "Sebastian Kimberk <skimberk1@gmail.com> (http://sebastian.io/)",
