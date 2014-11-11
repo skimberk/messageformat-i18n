@@ -60,4 +60,4 @@ Directory structure after running `node index.js`:
             fr.js
         index.js
 
-I hope the example helped you figure out how to use this module. For more information, check out the documentation of [MessageFormat.js](https://github.com/SlexAxton/messageformat.js), which this module uses under the hood to parse the internationalisations.
+I hope the example helped you figure out how to use this module. For more information, check out the documentation for [MessageFormat.js](https://github.com/SlexAxton/messageformat.js), which this module uses under the hood to parse the internationalisations.
